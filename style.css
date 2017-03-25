@@ -1,0 +1,52 @@
+@font-face {
+	font-family: 'Nobile-Regular';
+	src: url('Nobile-Regular.ttf') format('truetype');
+}
+
+body {
+	font-family: Nobile-Regular, sans-serif;
+	background-color: #EEEEEE;
+	color: #840dab;
+}
+
+#container {
+	border-width: 3px;
+	border-style: solid;
+	border-radius: 40px;
+	border-color: #840dab;
+	margin: 40px auto;
+	position: relative;
+	width: 70vw;
+	top: 10%;
+	text-align: center;
+	padding: 10px;
+}
+
+.mainHeading {
+	font-size: 550%;
+	padding: 30px;
+}
+
+.heading {
+	font-size: 350%;
+	padding: 30px;
+}
+
+.subHeading {
+	font-size: 200%;
+	padding: 20px;
+}
+
+.paragraph {
+	font-size: 100%;
+	padding: 10px;
+}
+
+.picture {
+	border-width: 3px;
+	border-style: solid;
+	border-radius: 40px;
+	border-color: #840dab;
+	margin: 10px;
+}
+
